@@ -1,0 +1,8 @@
+{
+    "pack":{
+        "description": "An Inventory & Crafting QOL Datapack",
+        "pack_format": 101.1,
+        "min_format": 101.1,
+        "max_format": 101.1
+    }
+}
