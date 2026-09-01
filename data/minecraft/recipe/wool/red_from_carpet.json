@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    " X ",
+    " X "
+  ],
+  "key": {
+    "X": [
+      "minecraft:red_carpet"
+    ]
+  },
+  "result": {
+    "id": "minecraft:red_wool",
+    "count": 2
+  }
+}
