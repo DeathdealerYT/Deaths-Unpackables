@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:chiseled_resin_bricks"
+  ],
+  "result": {
+    "id": "minecraft:resin_bricks",
+    "count": 1
+  }
+}
