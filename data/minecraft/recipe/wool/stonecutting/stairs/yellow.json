@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_blocks",
+  "ingredient": [
+    "minecraft:yellow_wool"
+  ],
+  "result": {
+	  "id": "minecraft:yellow_wool_stairs",
+	  "count": 1
+  }
+}

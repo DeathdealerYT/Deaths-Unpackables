@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "black_wool_group",
+  "ingredients": [
+  "minecraft:black_wool_slab",
+  "minecraft:black_wool_slab"
+  ],
+  "result": {
+    "id": "minecraft:black_wool",
+    "count": 1
+  }
+}

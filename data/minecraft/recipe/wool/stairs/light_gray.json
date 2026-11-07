@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "light_gray_wool_group",
+  "ingredients": [
+  "minecraft:light_gray_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_wool",
+    "count": 1
+  }
+}

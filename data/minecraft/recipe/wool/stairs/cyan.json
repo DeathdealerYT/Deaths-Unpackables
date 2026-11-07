@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "cyan_wool_group",
+  "ingredients": [
+  "minecraft:cyan_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:cyan_wool",
+    "count": 1
+  }
+}

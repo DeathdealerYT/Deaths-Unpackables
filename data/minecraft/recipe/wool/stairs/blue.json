@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "blue_wool_group",
+  "ingredients": [
+  "minecraft:blue_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:blue_wool",
+    "count": 1
+  }
+}

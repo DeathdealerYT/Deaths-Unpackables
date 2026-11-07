@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "yellow_wool_group",
+  "ingredients": [
+  "minecraft:yellow_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:yellow_wool",
+    "count": 1
+  }
+}

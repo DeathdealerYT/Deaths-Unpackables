@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "pink_wool_group",
+  "ingredients": [
+  "minecraft:pink_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:pink_wool",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "orange_wool_group",
+  "ingredients": [
+  "minecraft:orange_wool_stairs"
+  ],
+  "result": {
+    "id": "minecraft:orange_wool",
+    "count": 1
+  }
+}
