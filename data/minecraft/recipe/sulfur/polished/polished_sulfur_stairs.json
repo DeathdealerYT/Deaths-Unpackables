@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "polished_sulfur_bricks_group",
+  "ingredients": [
+    "minecraft:polished_sulfur_stairs"
+  ],
+  "result": {
+    "id": "minecraft:polished_sulfur",
+    "count": 1
+  }
+}

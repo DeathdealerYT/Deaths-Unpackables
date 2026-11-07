@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "raw_sulfur_group",
+  "ingredients": [
+    "minecraft:sulfur_slab",
+    "minecraft:sulfur_slab"
+  ],
+  "result": {
+    "id": "minecraft:sulfur",
+    "count": 1
+  }
+}

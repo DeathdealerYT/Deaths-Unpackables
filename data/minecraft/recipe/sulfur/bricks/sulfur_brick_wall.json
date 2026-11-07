@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "sulfur_bricks_group",
+  "ingredients": [
+    "minecraft:sulfur_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:sulfur_bricks",
+    "count": 1
+  }
+}
