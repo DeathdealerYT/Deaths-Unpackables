@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "tuff_group",
   "ingredients": [
     "minecraft:tuff_wall"
   ],

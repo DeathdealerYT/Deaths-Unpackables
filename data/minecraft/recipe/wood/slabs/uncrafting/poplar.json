@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "poplar_planks_group",
   "ingredients": [
   "minecraft:poplar_slab",
   "minecraft:poplar_slab"

@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "bamboo_planks_group",
   "ingredients": ["minecraft:bamboo_door"],
   "result": {
     "id": "minecraft:bamboo_planks",

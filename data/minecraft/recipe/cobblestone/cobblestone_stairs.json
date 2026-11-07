@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "to_raw_cobble_group",
   "ingredients": [
     "minecraft:cobblestone_stairs"
   ],

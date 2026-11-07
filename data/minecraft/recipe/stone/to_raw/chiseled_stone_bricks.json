@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stone_group",
   "ingredients": [
     "minecraft:chiseled_stone_bricks"
   ],

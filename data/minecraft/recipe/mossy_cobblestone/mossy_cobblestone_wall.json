@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_cobble_group",
   "ingredients": [
     "minecraft:mossy_cobblestone_wall"
   ],

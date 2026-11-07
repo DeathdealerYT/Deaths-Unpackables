@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "crimson_planks_group",
   "ingredients": ["minecraft:crimson_stairs"],
   "result": {
     "id": "minecraft:crimson_planks",

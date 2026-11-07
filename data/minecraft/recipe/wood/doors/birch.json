@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "birch_planks_group",
   "ingredients": ["minecraft:birch_door"],
   "result": {
     "id": "minecraft:birch_planks",

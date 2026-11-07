@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "purpur_block_group",
+  "ingredients": [
+    "minecraft:purpur_pillar"
+  ],
+  "result": {
+    "id": "minecraft:purpur_block",
+    "count": 1
+  }
+}

@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "polished_blackstone_brick_group",
   "ingredients": [
     "minecraft:polished_blackstone_brick_stairs"
   ],

@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "acacia_planks_group",
   "ingredients": [
   "minecraft:acacia_slab",
   "minecraft:acacia_slab"

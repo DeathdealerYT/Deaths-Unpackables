@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "bamboo_planks_group",
   "ingredients": ["minecraft:bamboo_pressure_plate"],
   "result": {
     "id": "minecraft:bamboo_planks",

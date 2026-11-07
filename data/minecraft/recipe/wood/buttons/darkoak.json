@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "dark_oak_planks_group",
   "ingredients": ["minecraft:dark_oak_button"],
   "result": {
     "id": "minecraft:dark_oak_planks",

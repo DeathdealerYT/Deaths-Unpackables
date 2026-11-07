@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "string_group",
   "ingredients": [
     "minecraft:red_wool"
   ],

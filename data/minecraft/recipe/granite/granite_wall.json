@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "to_raw_granite_group",
+  "ingredients": [
+    "minecraft:granite_wall"
+  ],
+  "result": {
+    "id": "minecraft:granite",
+    "count": 1
+  }
+}

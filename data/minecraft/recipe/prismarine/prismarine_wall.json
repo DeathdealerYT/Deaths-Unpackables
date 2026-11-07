@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "prismarine_group",
   "ingredients": [
     "minecraft:prismarine_wall"
   ],

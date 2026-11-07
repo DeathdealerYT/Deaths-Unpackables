@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "pale_oak_planks_group",
   "ingredients": ["minecraft:pale_oak_door"],
   "result": {
     "id": "minecraft:pale_oak_planks",

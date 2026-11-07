@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "resin_bricks_group",
   "ingredients": [
     "minecraft:resin_brick_slab",
     "minecraft:resin_brick_slab"

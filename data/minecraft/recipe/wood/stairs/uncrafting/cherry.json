@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "cherry_planks_group",
   "ingredients": ["minecraft:cherry_stairs"],
   "result": {
     "id": "minecraft:cherry_planks",

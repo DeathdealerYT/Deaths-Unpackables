@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "smooth_quartz_block_group",
+  "ingredients": [
+    "minecraft:smooth_quartz_stairs"
+  ],
+  "result": {
+    "id": "minecraft:smooth_quartz",
+    "count": 1
+  }
+}

@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "to_waxed_weathered_copper_group",
   "ingredients": [
     "minecraft:waxed_weathered_cut_copper"
   ],

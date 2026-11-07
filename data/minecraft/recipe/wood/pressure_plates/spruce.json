@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "spruce_planks_group",
   "ingredients": ["minecraft:spruce_pressure_plate"],
   "result": {
     "id": "minecraft:spruce_planks",

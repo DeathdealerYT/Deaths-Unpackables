@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "end_stone_brick_group",
   "ingredients": [
     "minecraft:end_stone_brick_slab",
     "minecraft:end_stone_brick_slab"

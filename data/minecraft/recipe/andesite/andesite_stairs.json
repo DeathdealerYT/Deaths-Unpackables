@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "to_raw_andesite_group",
   "ingredients": [
     "minecraft:andesite_stairs"
   ],

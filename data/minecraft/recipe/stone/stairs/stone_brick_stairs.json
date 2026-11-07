@@ -1,5 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stone_bricks_group",
   "ingredients": [
     "minecraft:stone_brick_stairs"
   ],
