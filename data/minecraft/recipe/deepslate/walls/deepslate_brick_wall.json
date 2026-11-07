@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "deepslate_brick_group",
+  "ingredients": [
+    "minecraft:deepslate_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:deepslate_bricks",
+    "count": 1
+  }
+}
