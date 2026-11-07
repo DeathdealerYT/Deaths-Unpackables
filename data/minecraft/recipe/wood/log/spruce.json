@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_logs",
+  "ingredient": "minecraft:stripped_spruce_log",
+  "result": {
+	  "id": "minecraft:spruce_log",
+	  "count": 1
+  }
+}

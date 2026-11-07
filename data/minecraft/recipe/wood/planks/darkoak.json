@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_blocks",
+  "ingredient": [
+    "minecraft:dark_oak_fence",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:dark_oak_stairs",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:dark_oak_button",
+    "minecraft:dark_oak_door",
+    "minecraft:dark_oak_pressure_plate",
+    "minecraft:dark_oak_sign",
+    "minecraft:dark_oak_hanging_sign",
+    "minecraft:dark_oak_boat",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "result": {
+	  "id": "minecraft:dark_oak_planks",
+	  "count": 1
+  }
+}

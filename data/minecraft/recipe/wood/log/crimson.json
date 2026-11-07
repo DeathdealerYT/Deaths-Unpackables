@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_logs",
+  "ingredient": "minecraft:stripped_crimson_stem",
+  "result": {
+	  "id": "minecraft:crimson_stem",
+	  "count": 1
+  }
+}

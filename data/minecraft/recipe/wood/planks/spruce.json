@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_blocks",
+  "ingredient": [
+    "minecraft:spruce_fence",
+    "minecraft:spruce_fence_gate",
+    "minecraft:spruce_stairs",
+    "minecraft:spruce_trapdoor",
+    "minecraft:spruce_button",
+    "minecraft:spruce_door",
+    "minecraft:spruce_pressure_plate",
+    "minecraft:spruce_sign",
+    "minecraft:spruce_hanging_sign",
+    "minecraft:spruce_boat",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "result": {
+	  "id": "minecraft:spruce_planks",
+	  "count": 1
+  }
+}

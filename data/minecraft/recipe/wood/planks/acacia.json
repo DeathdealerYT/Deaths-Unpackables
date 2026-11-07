@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_blocks",
+  "ingredient": [
+    "minecraft:acacia_fence",
+    "minecraft:acacia_fence_gate",
+    "minecraft:acacia_stairs",
+    "minecraft:acacia_trapdoor",
+    "minecraft:acacia_button",
+    "minecraft:acacia_door",
+    "minecraft:acacia_pressure_plate",
+    "minecraft:acacia_sign",
+    "minecraft:acacia_hanging_sign",
+    "minecraft:acacia_boat",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "result": {
+	  "id": "minecraft:acacia_planks",
+	  "count": 1
+  }
+}

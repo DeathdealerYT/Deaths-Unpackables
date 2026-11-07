@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_woods",
+  "ingredient": "minecraft:pale_oak_log",
+  "result": {
+    "id": "minecraft:pale_oak_wood",
+    "count": 1
+  }
+}

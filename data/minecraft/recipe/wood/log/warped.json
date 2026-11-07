@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_logs",
+  "ingredient": "minecraft:stripped_warped_stem",
+  "result": {
+	  "id": "minecraft:warped_stem",
+	  "count": 1
+  }
+}

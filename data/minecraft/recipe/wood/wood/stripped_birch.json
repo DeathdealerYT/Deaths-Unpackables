@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_woods",
+  "ingredient": [
+    "minecraft:birch_log",
+    "minecraft:birch_wood",
+    "minecraft:stripped_birch_log"
+  ],
+  "result": {
+    "id": "minecraft:stripped_birch_wood",
+    "count": 1
+  }
+}

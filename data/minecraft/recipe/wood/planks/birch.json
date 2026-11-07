@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cutting_blocks",
+  "ingredient": [
+    "minecraft:birch_fence",
+    "minecraft:birch_fence_gate",
+    "minecraft:birch_stairs",
+    "minecraft:birch_trapdoor",
+    "minecraft:birch_button",
+    "minecraft:birch_door",
+    "minecraft:birch_pressure_plate",
+    "minecraft:birch_sign",
+    "minecraft:birch_hanging_sign",
+    "minecraft:birch_boat",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "result": {
+	  "id": "minecraft:birch_planks",
+	  "count": 1
+  }
+}
