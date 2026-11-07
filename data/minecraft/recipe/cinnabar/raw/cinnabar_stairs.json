@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "raw_cinnabar_group",
+  "ingredients": [
+    "minecraft:cinnabar_stairs"
+  ],
+  "result": {
+    "id": "minecraft:cinnabar",
+    "count": 1
+  }
+}
